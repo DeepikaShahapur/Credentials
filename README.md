@@ -6,7 +6,7 @@ Welcome to my **Data Analytics Certifications** repository! This repository serv
 This repository includes certificates from various recognized platforms and institutions, covering topics such as:
 - **Data Analysis & Visualization**
 - **SQL & Databases**
-- **Python for Data Science**
+- **Python for Data Analytics**
 - **Machine Learning & AI**
 - **Business Analytics & BI Tools**
 
