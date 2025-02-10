@@ -16,12 +16,6 @@ This repository is created to:
 - Provide proof of my certifications.
 - Maintain an organized digital record.
 
-## 🏅 Certifications
-| Certificate Name       | Issuing Organization | Date      |
-|Accenture Data Analytics and Visualization Job Simulation | Forage             | Jan 2025  |
-| Example Certificate 2  | Google               | Feb 2024  |
-| Example Certificate 3  | IBM                  | Mar 2024  |
-
 
 ---
 
